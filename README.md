@@ -20,6 +20,11 @@ This repository concerns itself with learning the langauge itself, via following
 
 Thank you **Adam Cox**, for your advice. 
 
+# Installing Rust
+```
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+```
+Will install the compiler `rustc` and the package manager `cargo` using the installation program of `rustup`
 
 
 
