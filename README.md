@@ -18,7 +18,7 @@ This repository concerns itself with learning the langauge itself, via following
 
 
 
-Thank you **Adam Cox**, for your advice. 
+Thank you **Adam Cox** of Sky; Innovation and Artifical Intelligence Department, for your advice and pointing me to the most appropriate resources to learn the language. I appreciate it very much. 
 
 # Installing Rust
 ```
