@@ -36,8 +36,19 @@ fn main () {
     
     println!("This struct `{}` wont print...", Structure(3));
     */
-
+    // primitive type float 64
     let number: f64=1.0;
+    /*
+    primitive type usize  - how many bytes it takes to reference any location in memory.
+    e.g. 32 bit target, this is 4 bytes 
+         64 bit target, this is 8 bytes
+    */ 
     let width: usize=5;
     println!("{number:>width$}");
+
+    // activities 
+    let pi = 3.141592; 
+    let dp = 3;
+    println!("pi {val:.*} up to {0} decimal places", dp, val=pi);
+
 }
