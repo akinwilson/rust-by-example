@@ -14,6 +14,8 @@ Historically, a developer chose either full control over aspects such memory man
 
 Review the [Meili search engine](https://www.meilisearch.com/), as an example of the type of application ideally implemented with Rust. It is nothing short of blazing fast.
 
+If you wish to test out the engine to gauge to type of performance increases you will achieve via using Rust, and have cloud credentials available to you; AWS specifically, you can deploy the engine using [this repository](https://github.com/akinwilson/lightning-search).
+
 This repository concerns itself with learning the langauge itself, via following the [rust by example guide](https://doc.rust-lang.org/rust-by-example/). 
 
 
